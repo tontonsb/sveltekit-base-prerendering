@@ -11,7 +11,6 @@
 <nav>
     <a href="/{lang}">Index</a>
     <a href="section">Section</a>
-    <a href="section/subsection">Subsection</a>
 </nav>
 
 <slot />
